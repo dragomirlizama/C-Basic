@@ -1,6 +1,6 @@
 ﻿using System;
 
-class HelloWord1
+class HelloWord2
 {
     static void Main()
     {

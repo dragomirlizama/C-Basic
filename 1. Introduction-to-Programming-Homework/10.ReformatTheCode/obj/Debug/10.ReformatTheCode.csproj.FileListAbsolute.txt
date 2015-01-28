@@ -1,0 +1,5 @@
+C:\Users\Drago-PC\Documents\Visual Studio 2013\Projects\1. Introduction-to-Programming-Homework\10.ReformatTheCode\bin\Debug\10.ReformatTheCode.exe.config
+C:\Users\Drago-PC\Documents\Visual Studio 2013\Projects\1. Introduction-to-Programming-Homework\10.ReformatTheCode\bin\Debug\10.ReformatTheCode.exe
+C:\Users\Drago-PC\Documents\Visual Studio 2013\Projects\1. Introduction-to-Programming-Homework\10.ReformatTheCode\bin\Debug\10.ReformatTheCode.pdb
+C:\Users\Drago-PC\Documents\Visual Studio 2013\Projects\1. Introduction-to-Programming-Homework\10.ReformatTheCode\obj\Debug\10.ReformatTheCode.exe
+C:\Users\Drago-PC\Documents\Visual Studio 2013\Projects\1. Introduction-to-Programming-Homework\10.ReformatTheCode\obj\Debug\10.ReformatTheCode.pdb

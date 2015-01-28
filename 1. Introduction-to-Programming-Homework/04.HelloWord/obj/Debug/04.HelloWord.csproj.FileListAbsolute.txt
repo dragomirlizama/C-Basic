@@ -1,0 +1,6 @@
+c:\users\drago-pc\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\04.HelloWord\bin\Debug\04.HelloWord.exe.config
+c:\users\drago-pc\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\04.HelloWord\bin\Debug\04.HelloWord.exe
+c:\users\drago-pc\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\04.HelloWord\bin\Debug\04.HelloWord.pdb
+c:\users\drago-pc\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\04.HelloWord\obj\Debug\04.HelloWord.csprojResolveAssemblyReference.cache
+c:\users\drago-pc\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\04.HelloWord\obj\Debug\04.HelloWord.exe
+c:\users\drago-pc\documents\visual studio 2013\Projects\1. Introduction-to-Programming-Homework\04.HelloWord\obj\Debug\04.HelloWord.pdb
